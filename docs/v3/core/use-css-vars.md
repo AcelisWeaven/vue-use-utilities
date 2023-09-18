@@ -1,7 +1,7 @@
 # useCssVars
 
 ::: tip useCssVars
-Munipulate CSS Variables.
+Manipulate CSS Variables.
 :::
 
 ## Example
